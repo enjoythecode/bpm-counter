@@ -1,5 +1,7 @@
 Author: Sinan Yumurtaci -- sinan@enjoythecode.com
+
 Date: 11/27/2019
+
 Purpose: "Calculate" BPM from microphone by detecting sudden rises in sound loudness and registering the time between each "beat."
 
 Useful making sure you aren't going too fast/slow.
